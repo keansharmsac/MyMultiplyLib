@@ -1,0 +1,12 @@
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.csproj.AssemblyReference.cache
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.AssemblyInfoInputs.cache
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.AssemblyInfo.cs
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.csproj.CoreCompileInputs.cache
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/bin/Debug/net6.0/MyMultiplyLib.deps.json
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/bin/Debug/net6.0/MyMultiplyLib.dll
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/bin/Debug/net6.0/ref/MyMultiplyLib.dll
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/bin/Debug/net6.0/MyMultiplyLib.pdb
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.dll
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/ref/MyMultiplyLib.dll
+/Users/sachin/Documents/Spring 2022/C# and .NET/Labs/Lab 3/Repos/cs10dotnet6/vscode/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.pdb
